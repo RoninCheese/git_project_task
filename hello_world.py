@@ -1,4 +1,4 @@
-# hello_world.py
+
 
 # Function to get the user's name with validation
 def get_user_name():
